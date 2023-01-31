@@ -1,0 +1,8 @@
+public ip for public_ec2_1: 34.227.110.153
+private ip for public_ec2_1: 10.0.0.198
+public ip for public_ec2_2: 3.94.146.61
+private ip for public_ec2_2: 10.0.2.106
+public ip for public_ec2_1: 44.201.184.34
+public ip for public_ec2_2: 54.147.178.11
+private ip for public_ec2_2: 10.0.2.51
+private ip for public_ec2_1: 10.0.0.109
